@@ -1,4 +1,4 @@
-#  **STUDI KASUS 1: Sistem Penjadwalan Konstruksi Berbasis Zona (Spatial Project Planning)**
+#  **STUDI 1: Sistem Penjadwalan Konstruksi Berbasis Zona (Spatial Project Planning)**
 
 ### **Anggota Kelompok**
 
