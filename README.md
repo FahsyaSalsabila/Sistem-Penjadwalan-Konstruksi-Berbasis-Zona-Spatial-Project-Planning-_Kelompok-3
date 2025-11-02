@@ -2,7 +2,7 @@
 
 ### **Anggota Kelompok**
 
-| No | Nama Anggota | NIM | Keterangan |
+| No | Nama Anggota | NPM | Keterangan |
 |----|-----------------------------|-------------|-------------|
 | 1. | **Aprilizza Auliya** | G1A025007 | Ketua |
 | 2. | Fahsya Salsabila | G1A025011 | Anggota |
